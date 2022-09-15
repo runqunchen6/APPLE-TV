@@ -1,0 +1,7 @@
+echo "#APPLE-TV" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/runqunchen6/APPLE-TV。 git
+ git push -u 基本原理
